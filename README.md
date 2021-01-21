@@ -1,4 +1,4 @@
-## This repo is no longer actively maintained.
+## :warning: This repo is no longer actively maintained.
 
 # Overview
  This image [jackton1/bitbucket-ecr](https://hub.docker.com/r/jackton1/bitbucket-ecr/) extends the [atlassian/default-image:2](https://hub.docker.com/r/atlassian/default-image/) provided by [Bitbucket Pipelines](https://confluence.atlassian.com/bitbucket/use-docker-images-as-build-environments-792298897.html)
